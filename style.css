@@ -16,13 +16,13 @@ body{
     mix-blend-mode: multiply;
 }
 .dot{
-    width: 20px;
-    height: 20px;
+    width: 4%;
+    height: 4%;
     background-color: black;
     border-radius: 59px;
     position: relative;
     top: 48.7%;
-    left: 48.7%;
+    left: 48%;
 }
 
 #hour, #minute, #second{
